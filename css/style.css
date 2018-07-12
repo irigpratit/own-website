@@ -1,0 +1,43 @@
+body{
+  background-image: url(../image/bg2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box{
+  background: rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  max-width: 60%;
+  text-align: center;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+
+.box-img img{
+  border-radius: 50%;
+  width: 200px;
+  height: 180px;
+}
+
+h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+p{
+  text-align: justify;
+}
+.social span{
+  width: 60px;
+  padding: 6px;
+}
+
+.social>a>span{
+  font-size:20px !important;
+  color:#fff !important;
+}
